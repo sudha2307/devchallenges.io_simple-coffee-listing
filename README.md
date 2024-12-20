@@ -94,7 +94,7 @@ $ yarn dev
 
 ## Author
 
-- GitHub - [Souleymane Sy](https://github.com/SouleymaneSy7)
-- Dev Challenges - [Souleymane Sy](https://devchallenges.io/profile/534cd213-3165-4c16-bdcf-058e1f468da0)
-- Frontend Mentor - [@SouleymaneSy7](https://www.frontendmentor.io/profile/SouleymaneSy7)
-- Twitter - [@Souleymanesy43](https://twitter.com/Souleymanesy43)
+
+- GitHub - [sudha2307](https://github.com/sudha2307)
+- Instagram -[@_sudha_.exe](https://www.instagram.com/_sudha_.exe)
+- Portfolio - [SUDHAKAR M](https://sudha2307.github.io/Sudha-portfolio/)
